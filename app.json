@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "10a6919b-ba8b-4dfb-b379-d36909e67701"
+      }
+    },
+    "owner": "teamgodevs"
   }
 }
